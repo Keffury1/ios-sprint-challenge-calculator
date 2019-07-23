@@ -30,11 +30,11 @@ class CalculatorBrain {
         }
     }
     
-    func setOperator(_ operatorString: String) {
-        
+    func setOperator(_ operatorString: OperatorType) {
+        operatorType = operatorString
     }
     
     func calculateIfPossible() -> String? {
-        
+       
     }
 }

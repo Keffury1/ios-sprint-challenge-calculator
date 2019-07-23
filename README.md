@@ -1,4 +1,4 @@
-# Sprint Challenge: Introduction to iOS Programming - Calculator
+d# Sprint Challenge: Introduction to iOS Programming - Calculator
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This sprint provided an introduction to iOS progamming. During this sprint you studied the Xcode IDE, table views and the foundations of Swift. In your challenge this week, you will demonstrate proficiency by creating an application that performs basic arithmetic.
 
